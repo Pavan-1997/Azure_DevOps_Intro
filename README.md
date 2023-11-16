@@ -1,3 +1,5 @@
 # Azure_DevOps_Intro
 
-What is Cloud Computing 
+## Cloud Computing 
+
+You must purchase computing, storage, and hardware to run an application. Cloud computing minimizes these upfront expenses, and you can rent/lease hardware from cloud providers such as AWS/Azure/GCP.
