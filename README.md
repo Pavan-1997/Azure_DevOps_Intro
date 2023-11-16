@@ -10,4 +10,9 @@ You must purchase computing, storage, and hardware to run an application. Cloud 
 - Scalability
 - High Availability
 - Security
-- High Performance 
+- High Performance
+
+## IaaS vs PaaS vs SaaS
+
+![image](https://github.com/Pavan-1997/Azure_DevOps_Intro/assets/32020205/6eeaa265-07f9-4914-8e96-545cd9a9f63d)
+
