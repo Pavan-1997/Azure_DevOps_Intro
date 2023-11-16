@@ -40,7 +40,7 @@ Azure DevOps is a suite of services you can implement end-to-end DevOps in your 
 
 ## Type of Hosting Option
 
-You can work in the cloud using Azure DevOps Services or on-premises using Azure DevOps Server. 
+You can work in the cloud using Azure DevOps Services or on-premises using Azure DevOps Server. Organizations that want complete control over their data would mostly prefer to use Azure DevOps Server. 
 
 
 
