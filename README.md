@@ -38,4 +38,9 @@ You must purchase computing, storage, and hardware to run an application. Cloud 
 
 Azure DevOps is a suite of services you can implement end-to-end DevOps in your organization. It includes services such as Azure Repos, Boards, Wiki, Build and Release pipelines, Test plans, Artifacts, etc.
 
+## Type of Hosting Option
+
+You can work in the cloud using Azure DevOps Services or on-premises using Azure DevOps Server. 
+
+
 
