@@ -19,3 +19,12 @@ You must purchase computing, storage, and hardware to run an application. Cloud 
 ## Shared Responsibility Model in Azure
 
 ![image](https://github.com/Pavan-1997/Azure_DevOps_Intro/assets/32020205/50db0543-3962-4858-8c47-af308e5f6297)
+
+## Traditional Build and Deployment workflow
+
+![image](https://github.com/Pavan-1997/Azure_DevOps_Intro/assets/32020205/6980fb65-9016-4112-a859-51cbaae6b2f1)
+
+## Waterfall Model
+
+![image](https://github.com/Pavan-1997/Azure_DevOps_Intro/assets/32020205/d0c1854b-927e-4268-9a63-939430e09144)
+
