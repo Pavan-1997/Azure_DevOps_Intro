@@ -16,3 +16,6 @@ You must purchase computing, storage, and hardware to run an application. Cloud 
 
 ![image](https://github.com/Pavan-1997/Azure_DevOps_Intro/assets/32020205/6eeaa265-07f9-4914-8e96-545cd9a9f63d)
 
+## Shared Responsibility Model in Azure
+
+![image](https://github.com/Pavan-1997/Azure_DevOps_Intro/assets/32020205/50db0543-3962-4858-8c47-af308e5f6297)
