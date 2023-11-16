@@ -24,7 +24,14 @@ You must purchase computing, storage, and hardware to run an application. Cloud 
 
 ![image](https://github.com/Pavan-1997/Azure_DevOps_Intro/assets/32020205/6980fb65-9016-4112-a859-51cbaae6b2f1)
 
+![image](https://github.com/Pavan-1997/Azure_DevOps_Intro/assets/32020205/42a9395f-f1bc-48e9-8ea2-90760b19d3a2)
+
 ## Waterfall Model
 
 ![image](https://github.com/Pavan-1997/Azure_DevOps_Intro/assets/32020205/d0c1854b-927e-4268-9a63-939430e09144)
+
+## Agile
+
+![image](https://github.com/Pavan-1997/Azure_DevOps_Intro/assets/32020205/00715571-fa70-4f52-a813-56eff387e377)
+
 
