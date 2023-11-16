@@ -34,4 +34,8 @@ You must purchase computing, storage, and hardware to run an application. Cloud 
 
 ![image](https://github.com/Pavan-1997/Azure_DevOps_Intro/assets/32020205/00715571-fa70-4f52-a813-56eff387e377)
 
+## Azure DevOps
+
+Azure DevOps is a suite of services you can implement end-to-end DevOps in your organization. It includes services such as Azure Repos, Boards, Wiki, Build and Release pipelines, Test plans, Artifacts, etc.
+
 
